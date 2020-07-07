@@ -32,6 +32,18 @@ gem 'jquery-rails'
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
+
+gem "rails-i18n"
+
+gem "devise-i18n"
+
+gem "select2-rails"
+
+gem "nested_form_fields"
+
+gem 'bootstrap-datepicker-rails'
+
+gem 'ckeditor', '4.2.4'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
